@@ -1,4 +1,4 @@
-package com.lincy.retroboard.controller;
+package com.lincy.retroboard;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
